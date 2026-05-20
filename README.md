@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=csharp-patterns&fontSize=48&fontColor=7CFFB2&fontAlignY=38&desc=C%23%20%2F%20.NET%208%20%E2%80%94%20Temel%20S%C3%B6zdiziminden%20%C4%B0leri%20Pattern%27lere&descAlignY=58&descSize=14&descColor=8892b0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=csharp-patterns&fontSize=48&fontColor=7CFFB2&fontAlignY=38&desc=C%23%20%2F%20.NET%208%20%E2%80%94%20From%20Fundamentals%20to%20Advanced%20Patterns&descAlignY=58&descSize=14&descColor=8892b0&animation=fadeIn" />
 
 </div>
 
 <br/>
 
-> Sıfırdan başlayarak C# dilinin temellerini ve .NET 8 ekosisteminde kullanılan gerçek dünya pattern'lerini ele alan adım adım bir çalışma deposu.
+> A step-by-step study repository covering C# fundamentals and real-world patterns used in the .NET 8 ecosystem.
 
 ---
 
@@ -15,7 +15,7 @@
 ```
 csharp-patterns/
 │
-├── 01-basics/              # Tipler, Kontrol & OOP
+├── 01-basics/              # Types, Control Flow & OOP
 ├── 02-linq-lambda/         # LINQ & Lambda
 ├── 03-async-await/         # Async / Await
 ├── 04-exception-logging/   # Exception & Logging
@@ -44,53 +44,53 @@ csharp-patterns/
 
 ## `> cat roadmap.md`
 
-| # | Konu | İçerik | Kategori |
-|---|------|---------|----------|
-| 01 | Tipler, Kontrol & OOP | Değişkenler, if/switch, class, interface, inheritance, generics | Temel |
-| 02 | LINQ & Lambda | Select, Where, GroupBy, aggregate, method chaining | Temel |
-| 03 | Async / Await | Task, ValueTask, CancellationToken, parallel patterns | Temel |
-| 04 | Exception & Logging | try/catch, global handler, Serilog, structured logging | Temel |
-| 05 | Repository + Unit of Work | Generic repo, IUnitOfWork, transaction yönetimi | Mimari Pattern |
-| 06 | Result Pattern | Result\<T\>, Error tipi, exception'sız akış kontrolü | Mimari Pattern |
-| 07 | Options Pattern | IOptions\<T\>, IOptionsSnapshot, config binding, validation | Mimari Pattern |
-| 08 | Fluent Validation | AbstractValidator, RuleFor, custom rule, async validation | Mimari Pattern |
-| 09 | Decorator Pattern | IDecorator, pipeline davranışı, cross-cutting concern | Mimari Pattern |
-| 10 | Specification Pattern | ISpecification\<T\>, CompositeSpec, EF Core entegrasyonu | Mimari Pattern |
+| # | Topic | Content | Category |
+|---|-------|---------|----------|
+| 01 | Types, Control Flow & OOP | Variables, if/switch, class, interface, inheritance, generics | Fundamentals |
+| 02 | LINQ & Lambda | Select, Where, GroupBy, aggregate, method chaining | Fundamentals |
+| 03 | Async / Await | Task, ValueTask, CancellationToken, parallel patterns | Fundamentals |
+| 04 | Exception & Logging | try/catch, global handler, Serilog, structured logging | Fundamentals |
+| 05 | Repository + Unit of Work | Generic repo, IUnitOfWork, transaction management | Architecture Pattern |
+| 06 | Result Pattern | Result\<T\>, Error type, exception-free flow control | Architecture Pattern |
+| 07 | Options Pattern | IOptions\<T\>, IOptionsSnapshot, config binding, validation | Architecture Pattern |
+| 08 | Fluent Validation | AbstractValidator, RuleFor, custom rule, async validation | Architecture Pattern |
+| 09 | Decorator Pattern | IDecorator, pipeline behavior, cross-cutting concern | Architecture Pattern |
+| 10 | Specification Pattern | ISpecification\<T\>, CompositeSpec, EF Core integration | Architecture Pattern |
 | 11 | AutoMapper / Mapster | Profile, ProjectTo, custom converter, nested mapping | Cross-cutting |
 | 12 | Middleware Pipeline | IMiddleware, request/response logging, correlation ID | Cross-cutting |
-| 13 | Domain Events | IDomainEvent, dispatcher, EF Core ile publish | Cross-cutting |
-| 14 | Idempotency | Idempotency key, request cache, duplicate koruması | Cross-cutting |
+| 13 | Domain Events | IDomainEvent, dispatcher, publish with EF Core | Cross-cutting |
+| 14 | Idempotency | Idempotency key, request cache, duplicate protection | Cross-cutting |
 | 15 | Soft Delete + Audit Trail | ISoftDeletable, CreatedAt/UpdatedBy, EF Core interceptor | Cross-cutting |
-| 16 | Global Exception Middleware | ProblemDetails, RFC 7807, exception → HTTP map | Cross-cutting |
-| 17 | Feature Flags | IFeatureManager, env bazlı toggle, A/B test altyapısı | İleri Seviye |
-| 18 | Background Jobs | Hangfire, Quartz.NET, IHostedService, cron ifadeleri | İleri Seviye |
-| 19 | OpenTelemetry & Tracing | ActivitySource, trace/span, Jaeger/Zipkin entegrasyonu | İleri Seviye |
-| 20 | Saga Pattern | Orchestration vs choreography, compensating transaction | İleri Seviye |
+| 16 | Global Exception Middleware | ProblemDetails, RFC 7807, exception → HTTP mapping | Cross-cutting |
+| 17 | Feature Flags | IFeatureManager, env-based toggle, A/B test setup | Advanced |
+| 18 | Background Jobs | Hangfire, Quartz.NET, IHostedService, cron expressions | Advanced |
+| 19 | OpenTelemetry & Tracing | ActivitySource, trace/span, Jaeger/Zipkin integration | Advanced |
+| 20 | Saga Pattern | Orchestration vs choreography, compensating transaction | Advanced |
 
 ---
 
 ## `> cat progress.md`
 
-| Kategori | İlerleme |
+| Category | Progress |
 |----------|----------|
-| 🔵 Temel | ![0/4](https://img.shields.io/badge/0%2F4-gray?style=flat-square) |
-| 🟢 Mimari Pattern | ![0/6](https://img.shields.io/badge/0%2F6-gray?style=flat-square) |
+| 🔵 Fundamentals | ![0/4](https://img.shields.io/badge/0%2F4-gray?style=flat-square) |
+| 🟢 Architecture Pattern | ![0/6](https://img.shields.io/badge/0%2F6-gray?style=flat-square) |
 | 🟣 Cross-cutting | ![0/6](https://img.shields.io/badge/0%2F6-gray?style=flat-square) |
-| 🔴 İleri Seviye | ![0/4](https://img.shields.io/badge/0%2F4-gray?style=flat-square) |
+| 🔴 Advanced | ![0/4](https://img.shields.io/badge/0%2F4-gray?style=flat-square) |
 
 ---
 
 ## `> cat structure.md`
 
-Her klasör kendi içinde aynı yapıyı takip eder:
+Each folder follows the same structure:
 
 ```
-XX-konu-adi/
-├── README.md        # Konunun açıklaması ve notlar
-├── src/             # Kaynak kodlar
+XX-topic-name/
+├── README.md        # Topic explanation and notes
+├── src/             # Source code
 │   ├── *.cs
 │   └── *.csproj
-└── tests/           # Varsa test dosyaları
+└── tests/           # Test files (optional)
     └── *.Tests.csproj
 ```
 
