@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9158E521-FE01-2842-3E9D-9D0B5878ECF8}|01-basics\\01-types\\01-types.csproj|c:\\users\\halid\\desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\valuevsreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158E521-FE01-2842-3E9D-9D0B5878ECF8}|01-basics\\01-types\\01-types.csproj|solutionrelative:01-basics\\01-types\\valuevsreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158E521-FE01-2842-3E9D-9D0B5878ECF8}|01-basics\\01-types\\01-types.csproj|c:\\users\\halid\\desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158E521-FE01-2842-3E9D-9D0B5878ECF8}|01-basics\\01-types\\01-types.csproj|solutionrelative:01-basics\\01-types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValueVsReference.cs",
+              "DocumentMoniker": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\ValueVsReference.cs",
+              "RelativeDocumentMoniker": "01-basics\\01-types\\ValueVsReference.cs",
+              "ToolTip": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\ValueVsReference.cs",
+              "RelativeToolTip": "01-basics\\01-types\\ValueVsReference.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:03:43.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\Program.cs",
+              "RelativeDocumentMoniker": "01-basics\\01-types\\Program.cs",
+              "ToolTip": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\Program.cs",
+              "RelativeToolTip": "01-basics\\01-types\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:02:03.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\bin\Debug\net8.0\01-types.exe
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\bin\Debug\net8.0\01-types.deps.json
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\bin\Debug\net8.0\01-types.runtimeconfig.json
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\bin\Debug\net8.0\01-types.dll
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\bin\Debug\net8.0\01-types.pdb
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\01-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\01-types.AssemblyInfoInputs.cache
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\01-types.AssemblyInfo.cs
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\01-types.csproj.CoreCompileInputs.cache
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\01-types.sourcelink.json
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\01-types.dll
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\refint\01-types.dll
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\01-types.pdb
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\01-types.genruntimeconfig.cache
+C:\Users\Halid\Desktop\halid github\csharp-patterns\01-basics\01-types\obj\Debug\net8.0\ref\01-types.dll
