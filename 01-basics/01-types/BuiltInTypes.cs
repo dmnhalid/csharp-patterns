@@ -23,6 +23,23 @@ public static class BuiltInTypes
     {
         Console.WriteLine("--- BuiltInTypes ---");
 
-        // TODO: buraya yaz
+        // 1) Default degerler
+        int defaultInt = default(int);
+        long defaultLong = default(long);
+        double defaultDouble = default(double);
+        decimal defaultDecimal = default(decimal);
+        bool defaultBool = default(bool);
+        char defaultChar = default(char);
+        string? defaultString = default(string); // reference type oldugu icin default null
+
+        Console.WriteLine("1) Default degerler:");
+        Console.WriteLine($"   int     : {defaultInt}");
+        Console.WriteLine($"   long    : {defaultLong}");
+        Console.WriteLine($"   double  : {defaultDouble}");
+        Console.WriteLine($"   decimal : {defaultDecimal}");
+        Console.WriteLine($"   bool    : {defaultBool}");
+        Console.WriteLine($"   char    : '{defaultChar}' (görünmez, aslında \\0 karakteri)");
+        Console.WriteLine($"   string  : {(defaultString is null ? "null" : defaultString)}");
+
     }
 }
