@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{9158E521-FE01-2842-3E9D-9D0B5878ECF8}|01-basics\\01-types\\01-types.csproj|solutionrelative:01-basics\\01-types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9158E521-FE01-2842-3E9D-9D0B5878ECF8}|01-basics\\01-types\\01-types.csproj|c:\\users\\halid\\desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\builtintypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158E521-FE01-2842-3E9D-9D0B5878ECF8}|01-basics\\01-types\\01-types.csproj|solutionrelative:01-basics\\01-types\\builtintypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9158E521-FE01-2842-3E9D-9D0B5878ECF8}|01-basics\\01-types\\01-types.csproj|c:\\users\\halid\\desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\valuevsreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9158E521-FE01-2842-3E9D-9D0B5878ECF8}|01-basics\\01-types\\01-types.csproj|solutionrelative:01-basics\\01-types\\valuevsreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuiltInTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\BuiltInTypes.cs",
+              "RelativeDocumentMoniker": "01-basics\\01-types\\BuiltInTypes.cs",
+              "ToolTip": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\BuiltInTypes.cs",
+              "RelativeToolTip": "01-basics\\01-types\\BuiltInTypes.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:41:20.483Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -34,16 +51,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ValueVsReference.cs",
               "DocumentMoniker": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\ValueVsReference.cs",
               "RelativeDocumentMoniker": "01-basics\\01-types\\ValueVsReference.cs",
               "ToolTip": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\ValueVsReference.cs",
               "RelativeToolTip": "01-basics\\01-types\\ValueVsReference.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAqwEIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T08:03:43.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-18T08:03:43.094Z"
             },
             {
               "$type": "Document",
@@ -53,7 +69,7 @@
               "RelativeDocumentMoniker": "01-basics\\01-types\\Program.cs",
               "ToolTip": "C:\\Users\\Halid\\Desktop\\halid github\\csharp-patterns\\01-basics\\01-types\\Program.cs",
               "RelativeToolTip": "01-basics\\01-types\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-18T08:02:03.208Z",
               "EditorCaption": ""

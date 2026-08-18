@@ -21,6 +21,6 @@ Console.WriteLine("=== C# Types ===");
 // TODO: Bugün hangi konuyu çalışıyorsan onun Run() metodunu buraya ekle.
 // Örnek:
 //ValueVsReference.Run();
-//BuiltInTypes.Run();
+BuiltInTypes.Run();
 
 Console.WriteLine("Bitti.");
